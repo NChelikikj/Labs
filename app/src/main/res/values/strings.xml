@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab_Intents</string>
+    <string name="explicit">Explicit</string>
+    <string name="implicit">implicit</string>
+    <string name="send">send</string>
+    <string name="select_pictures">select pictures</string>
+    <string name="okej">Во ред</string>
+    <string name="cancel">Откажи</string>
+    <string name="insert">Insert</string>
+</resources>
